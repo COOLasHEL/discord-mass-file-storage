@@ -1,0 +1,11 @@
+C:\Users\Ethan Barclay\source\repos\FileSplitAndCombine\FileSplitAndCombine\bin\Debug\netcoreapp2.1\FileSplitAndCombine.deps.json
+C:\Users\Ethan Barclay\source\repos\FileSplitAndCombine\FileSplitAndCombine\bin\Debug\netcoreapp2.1\FileSplitAndCombine.runtimeconfig.json
+C:\Users\Ethan Barclay\source\repos\FileSplitAndCombine\FileSplitAndCombine\bin\Debug\netcoreapp2.1\FileSplitAndCombine.runtimeconfig.dev.json
+C:\Users\Ethan Barclay\source\repos\FileSplitAndCombine\FileSplitAndCombine\bin\Debug\netcoreapp2.1\FileSplitAndCombine.dll
+C:\Users\Ethan Barclay\source\repos\FileSplitAndCombine\FileSplitAndCombine\bin\Debug\netcoreapp2.1\FileSplitAndCombine.pdb
+C:\Users\Ethan Barclay\source\repos\FileSplitAndCombine\FileSplitAndCombine\obj\Debug\netcoreapp2.1\FileSplitAndCombine.csprojAssemblyReference.cache
+C:\Users\Ethan Barclay\source\repos\FileSplitAndCombine\FileSplitAndCombine\obj\Debug\netcoreapp2.1\FileSplitAndCombine.csproj.CoreCompileInputs.cache
+C:\Users\Ethan Barclay\source\repos\FileSplitAndCombine\FileSplitAndCombine\obj\Debug\netcoreapp2.1\FileSplitAndCombine.AssemblyInfoInputs.cache
+C:\Users\Ethan Barclay\source\repos\FileSplitAndCombine\FileSplitAndCombine\obj\Debug\netcoreapp2.1\FileSplitAndCombine.AssemblyInfo.cs
+C:\Users\Ethan Barclay\source\repos\FileSplitAndCombine\FileSplitAndCombine\obj\Debug\netcoreapp2.1\FileSplitAndCombine.dll
+C:\Users\Ethan Barclay\source\repos\FileSplitAndCombine\FileSplitAndCombine\obj\Debug\netcoreapp2.1\FileSplitAndCombine.pdb
